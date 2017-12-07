@@ -7,7 +7,14 @@
         var computerChoice = "";
         var userChoice = "";
         var winner = "";
+        
+        $("#shoot").click(function(){
+                $("")
+        });
+        
+        
         // Practice using console.log() and debugger to debug your code
+        
         // Create your document ready function. 
         // Create a click hander for when the "Shoot!" button is clicked, takes in the user choice from the input field, 
         // Display the user choice to the output screen

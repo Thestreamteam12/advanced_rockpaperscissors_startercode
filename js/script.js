@@ -9,10 +9,10 @@
         var winner = "";
         
         $("#shoot").click(function(){
-                $("")
+                $("#shoot").append("rock, paper, scissor");
         });
         
-        
+
         // Practice using console.log() and debugger to debug your code
         
         // Create your document ready function. 
